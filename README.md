@@ -1,5 +1,6 @@
 # Networkwalks-Momina-B084-week1-Wireshark
 ## WIRESHARK SOC LAB
+# Networkwalks Wireshark SOC Labs & Packet Analysis
 
 **Security Operations Centre (SOC) | Network Traffic Inspection | Digital Forensics**
 
@@ -49,12 +50,12 @@ The primary goal of this work is to build a structured, methodical approach to n
 
 | Lab ID | Lab Title | Tasks | Core Investigation Focus |
 | :---: | :--- | :---: | :--- |
-| **03** | VoIP Call Replay (Lab 3)[cite: 14] | 10 | Investigating call parameters, codecs, and transaction artifacts. |
-| **04** | Follow TCP Stream (Lab 4)[cite: 15] | 10 | Reconstructing bidirectional chat streams and analyzing payload size. |
-| **05** | Follow TCP Stream, Part 2 (Lab 5)[cite: 16] | 10 | Extracting hidden data elements, backup server paths, and download files. |
-| **06** | HTTP Plain Text Credentials (Lab 6)[cite: 17] | 10 | Inspecting unencrypted web traffic to demonstrate clear-text credential leaks. |
-| **07** | Brute Force Catch (Lab 7)[cite: 18] | 10 | Spotting repetitive login request patterns and identifying attack types. |
-| **08** | VoIP Call Replay (Lab 8)[cite: 19] | 10 | Analyzing voice protocol call setups, extensions, and metadata verification. |
+| **Lab 3** | VoIP Call Replay[cite: 14] | 10 | Investigating call parameters, codecs, and transaction artifacts. |
+| **Lab 4** | Follow TCP Stream[cite: 15] | 10 | Reconstructing bidirectional chat streams and analyzing payload size. |
+| **Lab 5** | Follow TCP Stream, Part 2[cite: 16] | 10 | Extracting hidden data elements, backup server paths, and download files. |
+| **Lab 6** | HTTP Plain Text Credentials[cite: 17] | 10 | Inspecting unencrypted web traffic to demonstrate clear-text credential leaks. |
+| **Lab 7** | Brute Force Catch[cite: 18] | 10 | Spotting repetitive login request patterns and identifying attack types. |
+| **Lab 8** | VoIP Call Replay[cite: 19] | 10 | Analyzing voice protocol call setups, extensions, and metadata verification. |
 
 ---
 
@@ -64,19 +65,19 @@ Below are the official completion scorecards verifying my lab results and marks 
 
 | Lab 3: VoIP Call Replay (100%)[cite: 14] | Lab 4: Follow TCP Stream (100%)[cite: 15] |
 | :---: | :---: |
-| ![Lab 3 Scorecard](screenshots/wiresharklab1.jpg)[cite: 14] | ![Lab 4 Scorecard](screenshots/wiresharklab2.jpg)[cite: 15] |
+| ![Lab 3 Scorecard](wiresharklab1.jpg)[cite: 14] | ![Lab 4 Scorecard](wiresharklab2.jpg)[cite: 15] |
 
 | Lab 5: TCP Stream Part 2 (100%)[cite: 16] | Lab 6: HTTP Plain Text (100%)[cite: 17] |
 | :---: | :---: |
-| ![Lab 5 Scorecard](screenshots/wiresharklab3.jpg)[cite: 16] | ![Lab 6 Scorecard](screenshots/wiresharklab4.jpg)[cite: 17] |
+| ![Lab 5 Scorecard](wiresharklab3.jpg)[cite: 16] | ![Lab 6 Scorecard](wiresharklab4.jpg)[cite: 17] |
 
 | Lab 7: Brute Force Catch (100%)[cite: 18] | Lab 8: VoIP Call Replay (90%)[cite: 19] |
 | :---: | :---: |
-| ![Lab 7 Scorecard](screenshots/wiresharklab5.jpg)[cite: 18] | ![Lab 8 Scorecard](screenshots/wiresharklab6.jpg)[cite: 19] |
+| ![Lab 7 Scorecard](wiresharklab5.jpg)[cite: 18] | ![Lab 8 Scorecard](wiresharklab6.jpg)[cite: 19] |
 
 ---
 
-Author
+## Author
 * Momina Khan
 * Cybersecurity and Digital Forensics Student | Batch B084
 * LinkedIn: https://www.linkedin.com/in/momina-khan-5793453aa/
